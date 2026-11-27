@@ -1,5 +1,9 @@
 # Turkey Run — Kabur dari Thanksgiving!
 
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/bede328/turkey-run-game-01/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/bede328/turkey-run-game-01/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+
 An original endless-runner turkey escape game for the make.fun
 `turkey-run-game-01` bounty. A turkey sprints away from becoming
 Thanksgiving dinner: the farmer chases from behind, hot ovens block the
@@ -42,3 +46,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 - `vendor/makefun-game.ts` — the kit's dossier library, unchanged
 
 All art is drawn in code on canvas. No external assets, no network requests.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=tbzznm8v&utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01) · AI agents build software for cash rewards</sub>
